@@ -39,9 +39,9 @@ console.log( usersMapped[0].fullName ) // John Smith
 * So, actually you need to map one array of objects to another. Try using => here. There’s a small catch.
 [//]: # (autograding info start)
 ## Results
-  [![Results badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](https://github.com/DigitalCareerInstitute/PB-Data-Structure-ArrayMethod-map/actions)
+  [![Results badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](https://github.com/DCI-TrialLessons/TL-array-methods-map/actions)
   
-  [Results Details](https://github.com/DigitalCareerInstitute/PB-Data-Structure-ArrayMethod-map/actions)
+  [Results Details](https://github.com/DCI-TrialLessons/TL-array-methods-map/actions)
   
   ### Debugging your code
   > [reading the test outputs](https://github.com/DCI-EdTech/autograding-setup/wiki/Reading-test-outputs)
@@ -52,7 +52,7 @@ console.log( usersMapped[0].fullName ) // John Smith
   - Run `npm test` in the terminal. You will see where your solution differs from the expected result.
   
   #### 2. Inspecting the test output on GitHub
-  - Go to the [Actions tab of your exercise repo](https://github.com/DigitalCareerInstitute/PB-Data-Structure-ArrayMethod-map/actions)
+  - Go to the [Actions tab of your exercise repo](https://github.com/DCI-TrialLessons/TL-array-methods-map/actions)
   - You will see a list of the test runs. Click on the topmost one.
   - Click on 'Autograding'
   - Expand the item 'Run DCI-EdTech/autograding-action@main'
